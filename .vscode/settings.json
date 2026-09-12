@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
+	"liveServer.settings.port": 5501,
+	"java.configuration.updateBuildConfiguration": "interactive"
+}
